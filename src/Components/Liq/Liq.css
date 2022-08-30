@@ -1,0 +1,83 @@
+
+
+.h_icon{
+    margin-left: 175px;
+}
+.h_Para{
+    font-size: 14px !important;
+     color: rgb(40, 13, 95);
+    padding-left: 30px !important;
+}
+.bl{
+    color: rgb(40, 13, 95);  
+}
+.h5_he{
+    font-size: 18px ;
+    font-weight: 700 !important;
+    margin-top: 15px;
+    padding-left: 20px;
+}
+.btn_hh{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    padding: 0px 16px;
+    box-shadow: rgb(74 74 104 / 10%) 0px 2px 2px -1px inset;
+    border: 1px solid rgb(215, 202, 236);
+    border-radius: 16px;
+    background: rgb(238, 234, 244);
+    transition: border-radius 0.15s ease 0s;
+    color: black !important;
+    font-weight: 700;
+}
+
+.btn_hh:hover{
+    background: rgb(210, 208, 211);
+    border: none;
+    outline: none;
+
+}
+.asdf{
+    margin-top: 0px !important
+    ;
+}
+
+.rowfsf{
+    display:flex;
+    margin-top: 30px;
+    justify-content:space-between
+}
+.liq_PaRa{
+    color: rgb(118, 69, 217);
+    font-weight: 600;
+    line-height: 1.5;
+    font-size: 12px;
+    text-decoration: underline dotted rgb(122, 110, 170);
+    text-underline-offset: 0.1em;
+}
+
+.liqq_pa{
+    color: rgb(31, 199, 212);
+    font-weight: 600;
+    line-height: 1.5;
+    font-size: 16px;
+}
+
+
+
+@media only screen and (max-width:600px){
+
+    .h_icon{
+        margin-left: 10px!important;
+    }
+    .res_ha{
+        margin-top: 7px !important;
+    }
+    .res_btn1{
+        margin-left: 40%;
+    }
+}

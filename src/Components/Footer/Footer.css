@@ -1,0 +1,88 @@
+.Main_footer{
+    background-color:rgb(39, 38, 44);;
+    padding: 30px 0px;
+}
+.footer_head{
+    color: rgb(154, 106, 255);
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.footer_row{
+    justify-content: space-between;
+}
+.foo_con{
+    color: rgb(255, 178, 55);
+    font-weight: 400;
+    line-height: 1.5;
+    font-size: 16px;
+}
+.dadf{
+    display: flex;
+    
+    -webkit-box-align: center;
+    align-items: center;
+ 
+   
+padding:3px;
+border-radius: 10px;
+
+    width: 7%;
+    height: 100%;
+
+}
+.xcv{
+    width:7%
+}
+.ffff{
+    position: relative;
+    -webkit-box-align: center;
+    align-items: center;
+    border: 0px;
+    border-radius: 16px;
+    box-shadow: rgb(14 14 44 / 40%) 0px -1px 0px 0px inset;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: inherit;
+    font-size: 16px;
+    font-weight: 600;
+    -webkit-box-pack: center;
+    justify-content: center;
+    letter-spacing: 0.03em;
+    line-height: 1;
+    opacity: 1;
+    outline: 0px;
+    transition: background-color 0.2s ease 0s, opacity 0.2s ease 0s;
+    height: 32px;
+    padding: 0px 16px;
+    background-color: rgb(31, 199, 212);
+    color: white;
+}
+.card{
+    border-radius:10px
+}
+
+.asdf{
+    background-color: rgb(189, 194, 196) ;
+    border-radius: 10px;
+}
+.as{
+    text-decoration: none;
+}
+
+.kukNmq {
+    align-self: center;
+    fill: rgb(255, 255, 255);
+    flex-shrink: 0;
+}
+
+.line{
+   background-color: rgb(56,50,65);
+    width: 100%;
+    display: flex;
+    justify-content: center !important;
+    margin-top: 10px;
+    height: 2px;
+}
+
+

@@ -1,0 +1,34 @@
+.sub_nav a{
+    color: grey;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 0px 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.sub_ul{
+    list-style-type: none;
+}
+
+
+@media only screen and (max-width:600px){
+    .sub_ul{
+        padding-right: 32px;
+    }
+    .iooo{
+        margin: 0 !important;
+        margin: 10px 0 !important;
+    }
+    .ffff{
+        margin-top: 10px !important
+        ;
+    }
+    .sub_nav a{
+        font-size: 13px !important;
+    }
+    .ss{
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+}
