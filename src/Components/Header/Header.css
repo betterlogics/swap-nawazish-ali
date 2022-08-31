@@ -134,6 +134,9 @@ margin-left: 16%;
       .dropdown_c {
 display: none;
     }
+    .me_es{
+      margin: 0!important;
+    }
 
 
 }

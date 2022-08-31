@@ -11,6 +11,34 @@
 }
 
 
+
+
+/* hover properties of all elements are written here in this section of the code  */
+
+
+.sub_nav a:hover {
+    color: #403030;
+}
+.card_p:hover {
+  
+    color: rgb(123 81 209);}
+
+    .modal_btn:hover {
+        
+        color: #000000c7 !important;}
+
+
+
+
+
+
+
+
+
+
+/* the hover properties section ends here  */
+
+
 @media only screen and (max-width:600px){
     .sub_ul{
         padding-right: 32px;
